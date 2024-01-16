@@ -1,4 +1,4 @@
-# STOCK DATA STREAMING AND ANALYSIS
+# Real Time Stock Data Stream Analysis
 
 ## DESCRIPTION
 * This project includes live streaming of data from a stock analysis website Alpha Vantage.
